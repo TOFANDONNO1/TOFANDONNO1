@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SOUMYA RANJAN ROUT</h1>
-<h3 align="center">A passionate fullstack webdevloper from India</h3>
+<h3 align="center">I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofandonno1&label=Profile%20views&color=0e75b6&style=flat" alt="tofandonno1" /> </p>
 

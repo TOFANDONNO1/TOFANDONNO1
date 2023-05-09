@@ -26,12 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/tofandonno1" target="blank"><img align="center" src="https://raw.githubusercontent.com/tofandonno1/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tofandonno1" height="30" width="40" /></a> -->
-<a href="https://twitter.com/tofandonno1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tofandonno1" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/soumya-ranjan-842169222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-ranjan-842169222" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ranjansoumya413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ranjansoumya413" height="30" width="40" /></a>
-<a href="https://fb.com/soumyaranjan rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumyaranjan rout" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/soumyaranjan rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaranjan rout" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/video for fun 01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="video for fun 01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranjansoumya413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjansoumya413" height="30" width="40" /></a>
 </p>
